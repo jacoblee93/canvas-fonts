@@ -1,8 +1,25 @@
 {
   "name": "@canvas-fonts/papyrus",
   "description": "Papyrus font packaged for node-canvas",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
+  "keywords": [
+    "canvas",
+    "fonts",
+    "font",
+    "canvas-fonts",
+    "canvacord",
+    "Papyrus",
+    "papyrus"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retrohacker/canvas-fonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/retrohacker/canvas-fonts/issues"
+  },
+  "homepage": "https://github.com/retrohacker/canvas-fonts#readme",
   "publishConfig": {
     "access": "public"
   }
