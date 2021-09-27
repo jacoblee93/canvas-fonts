@@ -1,7 +1,7 @@
 @canvas-fonts/helveticaNeue
 ====
 
-HelveticaNeue package for ![canvas](https://npmjs.org/package/canvas)
+HelveticaNeue package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

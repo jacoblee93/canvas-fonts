@@ -1,7 +1,7 @@
 @canvas-fonts/timesNewRomanItalic
 ====
 
-Times New Roman Italic package for ![canvas](https://npmjs.org/package/canvas)
+Times New Roman Italic package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

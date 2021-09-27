@@ -1,7 +1,7 @@
 @canvas-fonts/arialNarrowItalic
 ====
 
-Arial Narrow Italic package for ![canvas](https://npmjs.org/package/canvas)
+Arial Narrow Italic package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

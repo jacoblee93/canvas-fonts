@@ -1,7 +1,7 @@
 @canvas-fonts/papyrus
 ====
 
-Papyrus package for ![canvas](https://npmjs.org/package/canvas)
+Papyrus package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

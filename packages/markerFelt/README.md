@@ -1,7 +1,7 @@
 @canvas-fonts/markerFelt
 ====
 
-MarkerFelt package for ![canvas](https://npmjs.org/package/canvas)
+MarkerFelt package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

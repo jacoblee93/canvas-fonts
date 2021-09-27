@@ -1,7 +1,7 @@
 @canvas-fonts/impact
 ====
 
-Impact package for ![canvas](https://npmjs.org/package/canvas)
+Impact package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

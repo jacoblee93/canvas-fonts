@@ -1,7 +1,7 @@
 @canvas-fonts/americanTypewriter
 ====
 
-AmericanTypewriter package for ![canvas](https://npmjs.org/package/canvas)
+AmericanTypewriter package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

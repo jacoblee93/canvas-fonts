@@ -1,7 +1,7 @@
 @canvas-fonts/signPainter
 ====
 
-SignPainter package for ![canvas](https://npmjs.org/package/canvas)
+SignPainter package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

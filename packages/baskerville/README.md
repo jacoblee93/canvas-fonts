@@ -1,7 +1,7 @@
 @canvas-fonts/baskerville
 ====
 
-Baskerville package for ![canvas](https://npmjs.org/package/canvas)
+Baskerville package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

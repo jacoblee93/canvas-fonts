@@ -1,7 +1,7 @@
 @canvas-fonts/arialUnicode
 ====
 
-Arial Unicode package for ![canvas](https://npmjs.org/package/canvas)
+Arial Unicode package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

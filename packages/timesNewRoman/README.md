@@ -1,7 +1,7 @@
 @canvas-fonts/timesNewRoman
 ====
 
-Times New Roman package for ![canvas](https://npmjs.org/package/canvas)
+Times New Roman package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

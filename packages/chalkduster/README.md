@@ -1,7 +1,7 @@
 @canvas-fonts/chalkduster
 ====
 
-Chalkduster package for ![canvas](https://npmjs.org/package/canvas)
+Chalkduster package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

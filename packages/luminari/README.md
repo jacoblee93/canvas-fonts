@@ -1,7 +1,7 @@
 @canvas-fonts/luminari
 ====
 
-Luminari package for ![canvas](https://npmjs.org/package/canvas)
+Luminari package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

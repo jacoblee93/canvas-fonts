@@ -1,7 +1,7 @@
 @canvas-fonts/partyLET-Plain
 ====
 
-PartyLET-plain package for ![canvas](https://npmjs.org/package/canvas)
+PartyLET-plain package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

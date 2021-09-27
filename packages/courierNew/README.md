@@ -1,7 +1,7 @@
 @canvas-fonts/courierNew
 ====
 
-Courier New package for ![canvas](https://npmjs.org/package/canvas)
+Courier New package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

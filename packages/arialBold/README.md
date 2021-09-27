@@ -1,7 +1,7 @@
 @canvas-fonts/arialBold
 ====
 
-Arial Bold package for ![canvas](https://npmjs.org/package/canvas)
+Arial Bold package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

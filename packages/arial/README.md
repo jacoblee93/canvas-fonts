@@ -1,7 +1,7 @@
 @canvas-fonts/arial
 ====
 
-Arial package for ![canvas](https://npmjs.org/package/canvas)
+Arial package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

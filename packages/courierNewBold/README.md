@@ -1,7 +1,7 @@
 @canvas-fonts/courierNewBold
 ====
 
-Courier New Bold package for ![canvas](https://npmjs.org/package/canvas)
+Courier New Bold package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

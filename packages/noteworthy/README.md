@@ -1,7 +1,7 @@
 @canvas-fonts/noteworthy
 ====
 
-Noteworthy package for ![canvas](https://npmjs.org/package/canvas)
+Noteworthy package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

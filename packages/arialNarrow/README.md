@@ -1,7 +1,7 @@
 @canvas-fonts/arialNarrow
 ====
 
-Arial Narrow package for ![canvas](https://npmjs.org/package/canvas)
+Arial Narrow package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

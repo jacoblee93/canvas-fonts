@@ -1,7 +1,7 @@
 @canvas-fonts/tahoma
 ====
 
-Tahoma package for ![canvas](https://npmjs.org/package/canvas)
+Tahoma package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

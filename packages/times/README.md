@@ -1,7 +1,7 @@
 @canvas-fonts/times
 ====
 
-Times package for ![canvas](https://npmjs.org/package/canvas)
+Times package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

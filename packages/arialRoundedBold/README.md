@@ -1,7 +1,7 @@
 @canvas-fonts/arialRoundedBold
 ====
 
-Arial Rounded Bold package for ![canvas](https://npmjs.org/package/canvas)
+Arial Rounded Bold package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

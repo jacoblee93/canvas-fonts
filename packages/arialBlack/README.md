@@ -1,7 +1,7 @@
 @canvas-fonts/arialBlack
 ====
 
-Arial Black package for ![canvas](https://npmjs.org/package/canvas)
+Arial Black package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

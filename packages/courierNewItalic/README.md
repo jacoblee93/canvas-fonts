@@ -1,7 +1,7 @@
 @canvas-fonts/courierNewItalic
 ====
 
-Courier New Italic package for ![canvas](https://npmjs.org/package/canvas)
+Courier New Italic package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

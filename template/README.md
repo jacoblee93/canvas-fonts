@@ -1,7 +1,7 @@
 {{=it.PackageName}}
 ====
 
-{{=it.FontFamily}} package for ![canvas](https://npmjs.org/package/canvas)
+{{=it.FontFamily}} package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 

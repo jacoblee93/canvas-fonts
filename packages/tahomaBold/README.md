@@ -1,7 +1,7 @@
 @canvas-fonts/tahomaBold
 ====
 
-Tahoma Bold package for ![canvas](https://npmjs.org/package/canvas)
+Tahoma Bold package for [canvas](https://npmjs.org/package/canvas)
 
 ## Usage
 
