@@ -28,7 +28,7 @@ for(let FontFile of fonts) {
 	console.log(`=> Processing ${FontFile}`)
 	const FontFamily = path.parse(FontFile).name
 	const ShortPackageName = camelize(FontFamily)
-	const PackageName = `@canvas-fonts/${ShortPackageName}`
+	const PackageName = `@canvas-fonts/${FontFamily.split(' ').join('-').toLowerCase()}`
 	const URLName = encodeURI(ShortPackageName)
 	const FontPreview = `https://github.com/retrohacker/canvas-fonts/raw/master/previews/${URLName}.png`
 	const fontDefinition = { FontFile, FontFamily, ShortPackageName, PackageName, FontPreview }

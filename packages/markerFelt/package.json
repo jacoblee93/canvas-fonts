@@ -1,6 +1,7 @@
 {
-  "name": "@canvas-fonts/markerFelt",
-  "version": "1.0.0",
+  "name": "@canvas-fonts/markerfelt",
+  "description": "MarkerFelt font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

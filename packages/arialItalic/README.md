@@ -1,4 +1,4 @@
-@canvas-fonts/arialItalic
+@canvas-fonts/arial-italic
 ====
 
 Arial Italic package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Arial Italic package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/arialItalic"), { family: "Arial Italic" });
+registerFont(require("@canvas-fonts/arial-italic"), { family: "Arial Italic" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Arial Italic"`;

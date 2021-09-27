@@ -1,4 +1,4 @@
-@canvas-fonts/tahomaBold
+@canvas-fonts/tahoma-bold
 ====
 
 Tahoma Bold package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Tahoma Bold package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/tahomaBold"), { family: "Tahoma Bold" });
+registerFont(require("@canvas-fonts/tahoma-bold"), { family: "Tahoma Bold" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Tahoma Bold"`;

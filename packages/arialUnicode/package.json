@@ -1,6 +1,7 @@
 {
-  "name": "@canvas-fonts/arialUnicode",
-  "version": "1.0.0",
+  "name": "@canvas-fonts/arial-unicode",
+  "description": "Arial Unicode font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

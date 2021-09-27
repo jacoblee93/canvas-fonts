@@ -1,4 +1,4 @@
-@canvas-fonts/partyLET-Plain
+@canvas-fonts/partylet-plain
 ====
 
 PartyLET-plain package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ PartyLET-plain package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/partyLET-Plain"), { family: "PartyLET-plain" });
+registerFont(require("@canvas-fonts/partylet-plain"), { family: "PartyLET-plain" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "PartyLET-plain"`;

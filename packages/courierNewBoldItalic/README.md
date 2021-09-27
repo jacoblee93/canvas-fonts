@@ -1,4 +1,4 @@
-@canvas-fonts/courierNewBoldItalic
+@canvas-fonts/courier-new-bold-italic
 ====
 
 Courier New Bold Italic package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Courier New Bold Italic package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/courierNewBoldItalic"), { family: "Courier New Bold Italic" });
+registerFont(require("@canvas-fonts/courier-new-bold-italic"), { family: "Courier New Bold Italic" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Courier New Bold Italic"`;

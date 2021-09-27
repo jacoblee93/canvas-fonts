@@ -1,6 +1,7 @@
 {
   "name": "@canvas-fonts/papyrus",
-  "version": "1.0.0",
+  "description": "Papyrus font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

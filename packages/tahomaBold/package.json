@@ -1,6 +1,7 @@
 {
-  "name": "@canvas-fonts/tahomaBold",
-  "version": "1.0.0",
+  "name": "@canvas-fonts/tahoma-bold",
+  "description": "Tahoma Bold font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

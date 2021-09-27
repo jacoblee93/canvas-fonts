@@ -1,4 +1,4 @@
-@canvas-fonts/americanTypewriter
+@canvas-fonts/americantypewriter
 ====
 
 AmericanTypewriter package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ AmericanTypewriter package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/americanTypewriter"), { family: "AmericanTypewriter" });
+registerFont(require("@canvas-fonts/americantypewriter"), { family: "AmericanTypewriter" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "AmericanTypewriter"`;

@@ -1,4 +1,4 @@
-@canvas-fonts/courierNew
+@canvas-fonts/courier-new
 ====
 
 Courier New package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Courier New package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/courierNew"), { family: "Courier New" });
+registerFont(require("@canvas-fonts/courier-new"), { family: "Courier New" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Courier New"`;

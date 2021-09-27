@@ -1,6 +1,7 @@
 {
   "name": "@canvas-fonts/helvetica",
-  "version": "1.0.0",
+  "description": "Helvetica font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

@@ -1,4 +1,4 @@
-@canvas-fonts/arialBlack
+@canvas-fonts/arial-black
 ====
 
 Arial Black package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Arial Black package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/arialBlack"), { family: "Arial Black" });
+registerFont(require("@canvas-fonts/arial-black"), { family: "Arial Black" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Arial Black"`;

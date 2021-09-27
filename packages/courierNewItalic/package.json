@@ -1,6 +1,7 @@
 {
-  "name": "@canvas-fonts/courierNewItalic",
-  "version": "1.0.0",
+  "name": "@canvas-fonts/courier-new-italic",
+  "description": "Courier New Italic font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

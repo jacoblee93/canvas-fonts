@@ -1,6 +1,7 @@
 {
   "name": "@canvas-fonts/impact",
-  "version": "1.0.0",
+  "description": "Impact font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

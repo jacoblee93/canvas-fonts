@@ -1,4 +1,4 @@
-@canvas-fonts/arialUnicode
+@canvas-fonts/arial-unicode
 ====
 
 Arial Unicode package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Arial Unicode package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/arialUnicode"), { family: "Arial Unicode" });
+registerFont(require("@canvas-fonts/arial-unicode"), { family: "Arial Unicode" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Arial Unicode"`;

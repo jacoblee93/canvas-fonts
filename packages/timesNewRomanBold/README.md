@@ -1,4 +1,4 @@
-@canvas-fonts/timesNewRomanBold
+@canvas-fonts/times-new-roman-bold
 ====
 
 Times New Roman Bold package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Times New Roman Bold package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/timesNewRomanBold"), { family: "Times New Roman Bold" });
+registerFont(require("@canvas-fonts/times-new-roman-bold"), { family: "Times New Roman Bold" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Times New Roman Bold"`;

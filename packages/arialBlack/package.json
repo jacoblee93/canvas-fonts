@@ -1,6 +1,7 @@
 {
-  "name": "@canvas-fonts/arialBlack",
-  "version": "1.0.0",
+  "name": "@canvas-fonts/arial-black",
+  "description": "Arial Black font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

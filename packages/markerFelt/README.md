@@ -1,4 +1,4 @@
-@canvas-fonts/markerFelt
+@canvas-fonts/markerfelt
 ====
 
 MarkerFelt package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ MarkerFelt package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/markerFelt"), { family: "MarkerFelt" });
+registerFont(require("@canvas-fonts/markerfelt"), { family: "MarkerFelt" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "MarkerFelt"`;

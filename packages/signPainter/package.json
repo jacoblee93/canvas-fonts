@@ -1,6 +1,7 @@
 {
-  "name": "@canvas-fonts/signPainter",
-  "version": "1.0.0",
+  "name": "@canvas-fonts/signpainter",
+  "description": "SignPainter font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

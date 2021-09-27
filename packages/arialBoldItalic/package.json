@@ -1,6 +1,7 @@
 {
-  "name": "@canvas-fonts/arialBoldItalic",
-  "version": "1.0.0",
+  "name": "@canvas-fonts/arial-bold-italic",
+  "description": "Arial Bold Italic font packaged for node-canvas",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

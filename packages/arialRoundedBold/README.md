@@ -1,4 +1,4 @@
-@canvas-fonts/arialRoundedBold
+@canvas-fonts/arial-rounded-bold
 ====
 
 Arial Rounded Bold package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Arial Rounded Bold package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/arialRoundedBold"), { family: "Arial Rounded Bold" });
+registerFont(require("@canvas-fonts/arial-rounded-bold"), { family: "Arial Rounded Bold" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Arial Rounded Bold"`;

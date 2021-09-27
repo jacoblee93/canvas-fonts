@@ -1,4 +1,4 @@
-@canvas-fonts/timesNewRomanBoldItalic
+@canvas-fonts/times-new-roman-bold-italic
 ====
 
 Times New Roman Bold Italic package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ Times New Roman Bold Italic package for [canvas](https://npmjs.org/package/canva
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/timesNewRomanBoldItalic"), { family: "Times New Roman Bold Italic" });
+registerFont(require("@canvas-fonts/times-new-roman-bold-italic"), { family: "Times New Roman Bold Italic" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "Times New Roman Bold Italic"`;

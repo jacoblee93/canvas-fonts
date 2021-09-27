@@ -1,4 +1,4 @@
-@canvas-fonts/signPainter
+@canvas-fonts/signpainter
 ====
 
 SignPainter package for [canvas](https://npmjs.org/package/canvas)
@@ -7,7 +7,7 @@ SignPainter package for [canvas](https://npmjs.org/package/canvas)
 
 ```js
 const { registerFont, createCanvas } = require('canvas');
-registerFont(require("@canvas-fonts/signPainter"), { family: "SignPainter" });
+registerFont(require("@canvas-fonts/signpainter"), { family: "SignPainter" });
 const canvas = createCanvas(400, 48);
 const ctx = canvas.getContext('2d');
 ctx.font = `24px "SignPainter"`;
