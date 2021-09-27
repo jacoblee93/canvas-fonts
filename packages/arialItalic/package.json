@@ -1,0 +1,8 @@
+{
+  "name": "@canvas-fonts/arialItalic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}

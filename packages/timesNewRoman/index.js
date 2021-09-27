@@ -1,0 +1,1 @@
+module.exports = require('path').join(__dirname, "Times New Roman.ttf")
