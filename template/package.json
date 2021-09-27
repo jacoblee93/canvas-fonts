@@ -1,8 +1,16 @@
 {
   "name": "{{=it.PackageName}}",
   "description": "{{=it.FontFamily}} font packaged for node-canvas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retrohacker/canvas-fonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/retrohacker/canvas-fonts/issues"
+  },
+  "homepage": "https://github.com/retrohacker/canvas-fonts#readme",
   "publishConfig": {
     "access": "public"
   }
