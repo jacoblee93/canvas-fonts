@@ -1,7 +1,7 @@
 {
   "name": "@canvas-fonts/partylet-plain",
   "description": "PartyLET-plain font packaged for node-canvas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "keywords": [
     "canvas",

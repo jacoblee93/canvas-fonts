@@ -1,7 +1,7 @@
 {
   "name": "@canvas-fonts/luminari",
   "description": "Luminari font packaged for node-canvas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "keywords": [
     "canvas",

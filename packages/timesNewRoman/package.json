@@ -1,7 +1,7 @@
 {
   "name": "@canvas-fonts/times-new-roman",
   "description": "Times New Roman font packaged for node-canvas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "keywords": [
     "canvas",

@@ -1,7 +1,7 @@
 {
   "name": "@canvas-fonts/comic-sans-ms",
   "description": "Comic Sans MS font packaged for node-canvas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "keywords": [
     "canvas",

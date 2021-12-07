@@ -1,6 +1,6 @@
 {
-  "name": "@canvas-fonts/markerfelt",
-  "description": "MarkerFelt font packaged for node-canvas",
+  "name": "@canvas-fonts/exo2-bold",
+  "description": "Exo2-Bold font packaged for node-canvas",
   "version": "1.0.4",
   "main": "index.js",
   "keywords": [
@@ -9,8 +9,8 @@
     "font",
     "canvas-fonts",
     "canvacord",
-    "MarkerFelt",
-    "markerFelt"
+    "Exo2-Bold",
+    "exo2-Bold"
   ],
   "repository": {
     "type": "git",
