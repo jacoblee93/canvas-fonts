@@ -1,0 +1,26 @@
+{
+  "name": "@canvas-fonts/bebasneue-regular",
+  "description": "BebasNeue font packaged for node-canvas",
+  "version": "1.0.4",
+  "main": "index.js",
+  "keywords": [
+    "canvas",
+    "fonts",
+    "font",
+    "canvas-fonts",
+    "canvacord",
+    "BebasNeue",
+    "bebasneueregular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retrohacker/canvas-fonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/retrohacker/canvas-fonts/issues"
+  },
+  "homepage": "https://github.com/retrohacker/canvas-fonts#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
